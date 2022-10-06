@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'poppinsbold';
+    src: url('poppins-bold-webfont.woff2') format('woff2'),
+         url('poppins-bold-webfont.woff') format('woff'),
+         url('poppins-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'poppinsextrabold';
+    src: url('poppins-extrabold-webfont.woff2') format('woff2'),
+         url('poppins-extrabold-webfont.woff') format('woff'),
+         url('poppins-extrabold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'poppinsextralight';
+    src: url('poppins-extralight-webfont.woff2') format('woff2'),
+         url('poppins-extralight-webfont.woff') format('woff'),
+         url('poppins-extralight-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'poppinslight';
+    src: url('poppins-light-webfont.woff2') format('woff2'),
+         url('poppins-light-webfont.woff') format('woff'),
+         url('poppins-light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'poppinsmedium';
+    src: url('poppins-medium-webfont.woff2') format('woff2'),
+         url('poppins-medium-webfont.woff') format('woff'),
+         url('poppins-medium-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'poppinsregular';
+    src: url('poppins-regular-webfont.woff2') format('woff2'),
+         url('poppins-regular-webfont.woff') format('woff'),
+         url('poppins-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'poppinssemibold';
+    src: url('poppins-semibold-webfont.woff2') format('woff2'),
+         url('poppins-semibold-webfont.woff') format('woff'),
+         url('poppins-semibold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'poppinsthin';
+    src: url('poppins-thin-webfont.woff2') format('woff2'),
+         url('poppins-thin-webfont.woff') format('woff'),
+         url('poppins-thin-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
